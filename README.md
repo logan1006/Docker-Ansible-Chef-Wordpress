@@ -2,7 +2,7 @@
 
 for personal pupose
 
-Chef.bash should be run manually steap by step as listed in the file ( comments are self explainatory )
+Chef.bash should be run manually stap by step as listed in the file ( comments are self explainatory )
 
 
 ansible_playbook.bash should run manually step by step as list in the file ( comments are self explainatory )
